@@ -1,0 +1,39 @@
+
+  body {
+    background-color: #bbff33;
+  }
+  .card {
+    width: 300px;
+    background-color: white;
+    margin: auto;
+    margin-top: 100px;
+    padding: 11px;
+    padding-top: 1px;
+    box-shadow: 5px 5px #999966;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  img {
+    max-width: 278px;
+    margin: auto;
+    margin-bottom: 10px;
+    display: block;
+  }
+  .title {
+    font-weight: bold;
+    text-indent: 10px;
+  }
+  h1 {
+    text-align: center;
+    border: 1px solid #cccc00;
+    padding: 10px;
+    margin: 8px 11px 8px 11px;
+  }
+  .data {
+    margin-left: 11px;
+    margin-right: 11px;
+    border: 1px solid #cccc00;
+    padding: 15px 10px 15px 10px;
+  }
+  .p1 {
+    font-style: italic;
+  }
